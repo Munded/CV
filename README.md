@@ -1,29 +1,35 @@
-## Your Name
+## Edmund O'Brien
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a biochemistry graduate, who after a full recovery from spinal surgery, is looking to make the shift from research scientist to web development.  Idealy, I would love to be working in an ever changing hard working yet relaxed environment, with an array of projects.
 
 ## Skills
 
-#### This Skill
+#### Programming
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+During the intensive 12 week course at Makers Academy, I gained experience in mostly javascript and ruby with a focus around test-driven development.  Although I started with minimal experience in coding, I have since developed a multitude of projects, each driven by working closing with pair partner and a variety of testing suits, including rspec, karma and protractor.
 
-- Experience
-- Achievements
-- Evidence
+Examples of some of the projects I have made whilst at Maker's
 
-#### Another Skill
+Instaclone <insert Link>
+Five Minute Catchup <insert Link>
+To Do List <insert Link>
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Lab skills and team etiquette
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+  Through my many hours of working in a lab, I have developed the skills necessary for working closely with a team to produce a valuable and useful end product.
+  During my internship, I worked closely with a Post-doctorate team member on recently discovered protein in order to prove it's role in the Fanconi Anemia DNA repair pathway.  My work included exposing cells to DNA damaging agents, staining them, visualising the damaging with the use of light waves and counting the damaging cells to calculate percentage of damaged cells.  I then presented my findings to other lab teams at the end of the internship.
+
+summary of research(although not credited): http://www.mdanderson.org/newsroom/news-releases/2009/replication-at-dna-damage-sites-highlights-fanconi-anemia-and-breast-cancer-proteins.html
+
+#### People and Financial Management under stressful conditions
+
+  During my time at vision express, I constnatly had to manage a variety of customers experiencing a variety of problems whilst maintaining a steady work output.  During my time there, I had to pick up a variety of skills quikcly in order to keep up with the high demand of the customers, including glasses repair, basic optometry whilst maintaining an understanding of the recent innovations in the product design.
+  Whilst at RE Hospitalty, I had to manage a large team of inexperienced workers inorder to serve a large volume of highly demanding customers.  On top of that, I had to make sure all stocks were accounted for, tills were balanced and that the demands of the clients, back of house staff and customers were seen to.
+  For both of these jobs, I had to quickly learn basic accounting skills as I would have total up the daily sales, calculate percentage earnt compared to daily and year projected earnings whilst taking into account new stock being brought it.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (16/03/2015 to 6/06/2015)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -31,18 +37,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
+- Completed the 12 week coding course,
 
-#### Your University / College (start_date to end_date)
+#### Royal Holloway (9/10 to 6/14)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Biochemistry
+- Third Class Honors
+- 10 week Internship at MD Anderson, Cancer Research Center
+- Final Project on Protein-Protein interactions with NMDA receptors with the use of a variety of Bioinformatical search engines
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
+**RE Hospitality** (5/2014 to 11/2014)    
 *Your job title*  
-**Company Name** (start_date to end_date)   
+**Vision Express** (04/2013 to 09)   
 *Your job title*  
