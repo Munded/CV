@@ -8,23 +8,23 @@ I am a biochemistry graduate, who after a full recovery from spinal surgery, is 
 
 During the intensive 12 week course at Makers Academy, I gained experience in mostly javascript and ruby with a focus around test-driven development.  Although I started with minimal experience in coding, I have since developed a multitude of projects, each driven by working closing with pair partner and a variety of testing suits, including rspec, karma and protractor.
 
-Examples of some of the projects I have made whilst at Maker's
+Examples of some of the projects I have made whilst at Maker's<br>
 
-Instaclone <insert Link>
-Five Minute Catchup <insert Link>
-To Do List <insert Link>
+Instaclone <insert Link><br>
+Five Minute Catchup <insert Link><br>
+To Do List <insert Link><br>
 
 #### Lab skills and team etiquette
 
-  Through my many hours of working in a lab, I have developed the skills necessary for working closely with a team to produce a valuable and useful end product.
-  During my internship, I worked closely with a Post-doctorate team member on recently discovered protein in order to prove it's role in the Fanconi Anemia DNA repair pathway.  My work included exposing cells to DNA damaging agents, staining them, visualising the damaging with the use of light waves and counting the damaging cells to calculate percentage of damaged cells.  I then presented my findings to other lab teams at the end of the internship.
+  Through my many hours of working in a lab, I have developed the skills necessary for working closely with a team to produce a valuable and useful end product.<br>
+  During my internship, I worked closely with a Post-doctorate team member on recently discovered protein in order to prove it's role in the Fanconi Anemia DNA repair pathway.  My work included exposing cells to DNA damaging agents, staining them, visualising the damaging with the use of light waves and counting the damaging cells to calculate percentage of damaged cells.  I then presented my findings to other lab teams at the end of the internship.<br>
 
 summary of research(although not credited): http://www.mdanderson.org/newsroom/news-releases/2009/replication-at-dna-damage-sites-highlights-fanconi-anemia-and-breast-cancer-proteins.html
 
-#### People and Financial Management under stressful conditions
+#### People and Financial Management under stressful conditions<br>
 
-  During my time at vision express, I constnatly had to manage a variety of customers experiencing a variety of problems whilst maintaining a steady work output.  During my time there, I had to pick up a variety of skills quikcly in order to keep up with the high demand of the customers, including glasses repair, basic optometry whilst maintaining an understanding of the recent innovations in the product design.
-  Whilst at RE Hospitalty, I had to manage a large team of inexperienced workers inorder to serve a large volume of highly demanding customers.  On top of that, I had to make sure all stocks were accounted for, tills were balanced and that the demands of the clients, back of house staff and customers were seen to.
+  During my time at vision express, I constnatly had to manage a variety of customers experiencing a variety of problems whilst maintaining a steady work output.  During my time there, I had to pick up a variety of skills quikcly in order to keep up with the high demand of the customers, including glasses repair, basic optometry whilst maintaining an understanding of the recent innovations in the product design.<br>
+  Whilst at RE Hospitalty, I had to manage a large team of inexperienced workers inorder to serve a large volume of highly demanding customers.  On top of that, I had to make sure all stocks were accounted for, tills were balanced and that the demands of the clients, back of house staff and customers were seen to.<br>
   For both of these jobs, I had to quickly learn basic accounting skills as I would have total up the daily sales, calculate percentage earnt compared to daily and year projected earnings whilst taking into account new stock being brought it.
 
 ## Education
