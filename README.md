@@ -10,9 +10,9 @@ During the intensive 12 week course at Makers Academy, I gained experience in mo
 
 Examples of some of the projects I have made whilst at Maker's<br>
 
-Instaclone <insert Link><br>
-Five Minute Catchup <insert Link><br>
-To Do List <insert Link><br>
+- Instaclone https://github.com/Munded/instagram-challenge
+- Five Minute Catchup <insert Link><br>
+- To Do List <insert Link><br>
 
 #### Lab skills and team etiquette
 
