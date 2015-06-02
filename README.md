@@ -12,7 +12,7 @@ Examples of some of the projects I have made whilst at Maker's<br>
 
 - Instaclone https://github.com/Munded/instagram-challenge
 - Five Minute Catchup <insert Link><br>
-- To Do List <insert Link><br>
+- To Do List https://github.com/Munded/todo_challenge<br>
 
 #### Lab skills and team etiquette
 
