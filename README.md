@@ -13,6 +13,7 @@ Examples of some of the projects I have made whilst at Maker's<br>
 - Instaclone https://github.com/Munded/instagram-challenge
 - Five Minute Catchup <insert Link><br>
 - To Do List https://github.com/Munded/todo_challenge<br>
+- Thermostat: https://github.com/Munded/thermostat
 
 #### Lab skills and team etiquette
 
@@ -42,7 +43,6 @@ summary of research(although not credited): http://www.mdanderson.org/newsroom/n
 #### Royal Holloway (9/10 to 6/14)
 
 - Biochemistry
-- Third Class Honors
 - 10 week Internship at MD Anderson, Cancer Research Center
 - Final Project on Protein-Protein interactions with NMDA receptors with the use of a variety of Bioinformatical search engines
 
