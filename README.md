@@ -14,6 +14,7 @@ Examples of some of the projects I have made whilst at Maker's<br>
 - Five Minute Catchup <insert Link><br>
 - To Do List https://github.com/Munded/todo_challenge<br>
 - Thermostat: https://github.com/Munded/thermostat
+- Chitter: https://github.com/Munded/chitter-challenge
 
 #### Lab skills and team etiquette
 
