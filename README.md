@@ -11,8 +11,8 @@ During the intensive 12 week course at Makers Academy, I gained experience in mo
 Examples of some of the projects I have made whilst at Maker's<br>
 
 - Instaclone https://github.com/Munded/instagram-challenge
-- Five Minute Catchup <insert Link><br>
-- To Do List https://github.com/Munded/todo_challenge<br>
+- Five Minute Catchup: https://github.com/5-minute-catchup/Five-Minute-Catchup<br>
+- To Do List: https://github.com/Munded/todo_challenge<br>
 - Thermostat: https://github.com/Munded/thermostat
 - Chitter: https://github.com/Munded/chitter-challenge
 
