@@ -1,6 +1,6 @@
 ## Edmund O'Brien
 
-I am a biochemistry graduate, who after a full recovery from spinal surgery, is looking to make the shift from research scientist to web development.  Idealy, I would love to be working in an ever changing hard working yet relaxed environment, with an array of projects.
+I am a biochemistry graduate, who after a full recovery from spinal surgery, is looking to make the shift from research scientist to web development.  Idealy, I would love to be working in a hard working yet relaxed environment on an array of different projects.
 
 ## Skills
 
