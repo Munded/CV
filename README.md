@@ -35,6 +35,9 @@ summary of research(although not credited): http://www.mdanderson.org/newsroom/n
 
 ## Education
 
+### Current Work
+- Working towards becoming a Microsoft certified C# developer
+
 #### Makers Academy (16/03/2015 to 6/06/2015)
 
 - Curiosity and hungry passion for code
